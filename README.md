@@ -1,5 +1,5 @@
 # Machine Learning Engineer Nanodegree
-My solutions for Udacity's Machine Learning Engineer Nanodegree projects. 
+My solutions for [Udacity's Machine Learning Engineer Nanodegree](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009) projects. 
 
 Initially cloned from [Udacity's Machine Learning repository](https://github.com/udacity/machine-learning).
 
